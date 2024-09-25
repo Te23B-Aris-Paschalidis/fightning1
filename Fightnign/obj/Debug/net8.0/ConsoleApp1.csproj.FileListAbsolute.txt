@@ -1,0 +1,14 @@
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\bin\Debug\net8.0\ConsoleApp1.exe
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\bin\Debug\net8.0\ConsoleApp1.deps.json
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\bin\Debug\net8.0\ConsoleApp1.dll
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\bin\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.dll
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\refint\ConsoleApp1.dll
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ref\ConsoleApp1.dll
