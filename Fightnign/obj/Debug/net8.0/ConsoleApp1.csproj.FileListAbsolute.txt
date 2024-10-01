@@ -12,3 +12,4 @@ c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Deb
 c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.pdb
 c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 c:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\aris.paschalidis\Documents\Programmering 1\fightning1\Fightnign\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
